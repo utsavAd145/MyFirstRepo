@@ -1,0 +1,1 @@
+print("This is inside a folder")
